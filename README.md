@@ -1,1 +1,1 @@
-BookBot is my first git project!
+This is a project to help me get used to using my local dev environment and the github source control
